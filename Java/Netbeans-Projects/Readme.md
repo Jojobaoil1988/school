@@ -1,2 +1,2 @@
 # {Java NetBeans-Projects}
-Some complete Java Netbeans-Projects code
+Some complete Java Netbeans-Projects
