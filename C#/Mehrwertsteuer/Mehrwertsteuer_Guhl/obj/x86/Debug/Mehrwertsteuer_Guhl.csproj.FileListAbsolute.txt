@@ -1,0 +1,9 @@
+C:\AEW_Abgabe_BE091\Mehrwertsteuer_Guhl\Mehrwertsteuer_Guhl\bin\Debug\Mehrwertsteuer_Guhl.exe
+C:\AEW_Abgabe_BE091\Mehrwertsteuer_Guhl\Mehrwertsteuer_Guhl\bin\Debug\Mehrwertsteuer_Guhl.pdb
+C:\AEW_Abgabe_BE091\Mehrwertsteuer_Guhl\Mehrwertsteuer_Guhl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AEW_Abgabe_BE091\Mehrwertsteuer_Guhl\Mehrwertsteuer_Guhl\obj\x86\Debug\Mehrwertsteuer_Guhl.Form1.resources
+C:\AEW_Abgabe_BE091\Mehrwertsteuer_Guhl\Mehrwertsteuer_Guhl\obj\x86\Debug\Mehrwertsteuer_Guhl.Properties.Resources.resources
+C:\AEW_Abgabe_BE091\Mehrwertsteuer_Guhl\Mehrwertsteuer_Guhl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\AEW_Abgabe_BE091\Mehrwertsteuer_Guhl\Mehrwertsteuer_Guhl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\AEW_Abgabe_BE091\Mehrwertsteuer_Guhl\Mehrwertsteuer_Guhl\obj\x86\Debug\Mehrwertsteuer_Guhl.exe
+C:\AEW_Abgabe_BE091\Mehrwertsteuer_Guhl\Mehrwertsteuer_Guhl\obj\x86\Debug\Mehrwertsteuer_Guhl.pdb

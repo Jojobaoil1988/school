@@ -1,0 +1,11 @@
+c:\users\jannis.guhl\documents\visual studio 2010\Projects\rechnen\rechnen\bin\Debug\rechnen.exe
+c:\users\jannis.guhl\documents\visual studio 2010\Projects\rechnen\rechnen\bin\Debug\rechnen.pdb
+c:\users\jannis.guhl\documents\visual studio 2010\Projects\rechnen\rechnen\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jannis.guhl\documents\visual studio 2010\Projects\rechnen\rechnen\obj\x86\Debug\rechnen.Form1.resources
+c:\users\jannis.guhl\documents\visual studio 2010\Projects\rechnen\rechnen\obj\x86\Debug\rechnen.Properties.Resources.resources
+c:\users\jannis.guhl\documents\visual studio 2010\Projects\rechnen\rechnen\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jannis.guhl\documents\visual studio 2010\Projects\rechnen\rechnen\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jannis.guhl\documents\visual studio 2010\Projects\rechnen\rechnen\obj\x86\Debug\rechnen.exe
+c:\users\jannis.guhl\documents\visual studio 2010\Projects\rechnen\rechnen\obj\x86\Debug\rechnen.pdb
+S:\Jannis-Guhl\AEW\C#\Calculator\rechnen\obj\x86\Debug\rechnen.exe
+S:\Jannis-Guhl\AEW\C#\Calculator\rechnen\obj\x86\Debug\rechnen.pdb

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1302009447 source:m:\info2\praktaufg1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1302607784 source:i:\uni\info 2\praktaufg1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1302128060 source:e:\uni\info 2\praktaufg1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1302607784 source:f:\uni\info 2\praktaufg1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

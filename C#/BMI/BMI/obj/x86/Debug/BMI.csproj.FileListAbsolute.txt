@@ -1,0 +1,10 @@
+S:\Jannis-Guhl\AEW\C#\BMI\BMI\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Jannis-Guhl\AEW\C#\BMI\BMI\obj\x86\Debug\BMI.Form1.resources
+S:\Jannis-Guhl\AEW\C#\BMI\BMI\obj\x86\Debug\BMI.Properties.Resources.resources
+S:\Jannis-Guhl\AEW\C#\BMI\BMI\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Jannis-Guhl\AEW\C#\BMI\BMI\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Jannis-Guhl\AEW\C#\BMI\BMI\bin\Debug\BMI.exe
+S:\Jannis-Guhl\AEW\C#\BMI\BMI\bin\Debug\BMI.pdb
+S:\Jannis-Guhl\AEW\C#\BMI\BMI\obj\x86\Debug\BMI.exe
+S:\Jannis-Guhl\AEW\C#\BMI\BMI\obj\x86\Debug\BMI.pdb
+S:\Jannis-Guhl\AEW\C#\BMI\BMI\obj\x86\Debug\BMI.Form2.resources

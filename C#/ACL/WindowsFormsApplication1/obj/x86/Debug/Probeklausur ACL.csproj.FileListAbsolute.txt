@@ -1,0 +1,9 @@
+S:\Jannis-Guhl\AEW\C#\Probeklausur ACL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+S:\Jannis-Guhl\AEW\C#\Probeklausur ACL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+S:\Jannis-Guhl\AEW\C#\Probeklausur ACL\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Jannis-Guhl\AEW\C#\Probeklausur ACL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+S:\Jannis-Guhl\AEW\C#\Probeklausur ACL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+S:\Jannis-Guhl\AEW\C#\Probeklausur ACL\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Jannis-Guhl\AEW\C#\Probeklausur ACL\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Jannis-Guhl\AEW\C#\Probeklausur ACL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+S:\Jannis-Guhl\AEW\C#\Probeklausur ACL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

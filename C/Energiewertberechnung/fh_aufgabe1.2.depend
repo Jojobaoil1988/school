@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1298628256 source:s:\jannis-guhl\aew\c\fh_aufgabe1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1298631856 source:i:\uni\info 2\praktaufgabe2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1303209617 source:m:\info 2\praktaufgabe2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1303231701 source:e:\uni\info 2\praktaufgabe2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1303248347 source:i:\uni\info 2\praktaufgabe2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1305635450 source:f:\uni\info 2\praktaufgabe2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1305637377 source:f:\uni\info 2\praktaufgabe2\main2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+
